@@ -1,0 +1,57 @@
+Ah, got it! You’re asking for **basic and commonly asked algorithm problems**—the kind that are typically asked in beginner to intermediate interviews to test fundamental problem-solving skills.
+
+Here’s a list of those **"normal" algorithm problems**, like Anagram, Fibonacci, etc., grouped by category:
+
+---
+
+### ✅ **Common Beginner-Friendly Algorithms**
+
+#### 🔁 Strings
+
+1. **Check Anagram**
+2. **Reverse a String**
+3. **Palindrome Check**
+4. **Count Vowels and Consonants**
+5. **First Non-Repeating Character**
+6. **Remove Duplicates from String**
+
+#### 🔢 Numbers
+
+7. **Fibonacci Sequence** (Recursive & Iterative)
+8. **Factorial of a Number**
+9. **Check Prime Number**
+10. **Find GCD (Greatest Common Divisor)**
+11. **Find LCM (Least Common Multiple)**
+12. **Armstrong Number**
+13. **Palindrome Number**
+14. **Sum of Digits**
+
+#### 📊 Arrays
+
+15. **Find Maximum and Minimum in Array**
+16. **Find Duplicates in Array**
+17. **Reverse Array**
+18. **Find Missing Number (1 to n)**
+19. **Sum of Elements in Array**
+20. **Second Largest Element**
+21. **Move Zeros to End**
+22. **Check if Array is Sorted**
+
+#### 🔁 Loops / Recursion
+
+23. **Print Fibonacci using Recursion**
+24. **Sum of n Natural Numbers (Recursion / Loop)**
+25. **Calculate Power (xⁿ)**
+26. **Generate Multiplication Table**
+
+#### 📌 Miscellaneous
+
+27. **Swap Two Numbers Without Temp Variable**
+28. **Check Leap Year**
+29. **Count Words in a Sentence**
+30. **Sort an Array (Bubble / Selection / Insertion)**
+
+---
+
+
+

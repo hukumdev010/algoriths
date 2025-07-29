@@ -1,0 +1,143 @@
+Here's a categorized list of important algorithms used in computer science and software engineering:
+
+---
+
+### 🔢 **Sorting Algorithms**
+
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Heap Sort
+* Counting Sort
+* Radix Sort
+* Bucket Sort
+* Tim Sort (used in Python)
+
+---
+
+### 🔍 **Searching Algorithms**
+
+* Linear Search
+* Binary Search
+* Exponential Search
+* Interpolation Search
+* Jump Search
+* Ternary Search
+
+---
+
+### 📊 **Graph Algorithms**
+
+* Breadth-First Search (BFS)
+* Depth-First Search (DFS)
+* Dijkstra’s Algorithm
+* Bellman-Ford Algorithm
+* Floyd-Warshall Algorithm
+* A\* (A-star) Search
+* Kruskal’s Algorithm (Minimum Spanning Tree)
+* Prim’s Algorithm (Minimum Spanning Tree)
+* Topological Sorting
+* Tarjan's Algorithm (SCC)
+* Kosaraju's Algorithm (SCC)
+
+---
+
+### 🧮 **Dynamic Programming Algorithms**
+
+* Fibonacci Sequence (Memoization/Tabulation)
+* Longest Common Subsequence (LCS)
+* Longest Increasing Subsequence (LIS)
+* 0/1 Knapsack Problem
+* Coin Change Problem
+* Matrix Chain Multiplication
+* Edit Distance
+* Subset Sum Problem
+* Partition Equal Subset Sum
+* Rod Cutting Problem
+
+---
+
+### 📦 **Greedy Algorithms**
+
+* Activity Selection
+* Huffman Coding
+* Fractional Knapsack
+* Job Scheduling with Deadlines
+* Kruskal’s and Prim’s (also greedy-based)
+
+---
+
+### 🔁 **Recursion & Backtracking**
+
+* N-Queens Problem
+* Sudoku Solver
+* Rat in a Maze
+* Word Search
+* Subsets / Permutations
+* Combination Sum
+
+---
+
+### 💡 **Divide and Conquer**
+
+* Merge Sort
+* Quick Sort
+* Binary Search
+* Closest Pair of Points
+* Karatsuba Multiplication
+
+---
+
+### 🧠 **Bit Manipulation Algorithms**
+
+* Count Set Bits
+* Check if Power of Two
+* XOR of Array
+* Find the Single Number
+* Swap Two Numbers Without Temp Variable
+
+---
+
+### 🧪 **Mathematical Algorithms**
+
+* Sieve of Eratosthenes (Prime generation)
+* Euclidean Algorithm (GCD)
+* Modular Exponentiation
+* Fast Power
+* Fermat’s Little Theorem
+* Chinese Remainder Theorem
+
+---
+
+### 📐 **Geometry Algorithms**
+
+* Convex Hull (Graham Scan, Jarvis March)
+* Line Intersection
+* Closest Pair of Points
+* Area of Polygon
+
+---
+
+### 🗂️ **Data Structure-Based Algorithms**
+
+* Trie Insertion/Search
+* Union Find (Disjoint Set Union)
+* Segment Tree (with Lazy Propagation)
+* Fenwick Tree (Binary Indexed Tree)
+* LRU Cache (using HashMap + Doubly Linked List)
+
+---
+
+### 🔒 **String Algorithms**
+
+* KMP Algorithm
+* Rabin-Karp Algorithm
+* Z Algorithm
+* Trie for Pattern Matching
+* Suffix Array & LCP
+* Suffix Tree
+* Aho-Corasick Algorithm
+
+---
