@@ -1,0 +1,123 @@
+Here is a **comprehensive list of sorting algorithms**, categorized and including both common and lesser-known types:
+
+---
+
+### 🔹 **Comparison-Based Sorting Algorithms**
+
+These compare elements and sort based on comparisons (e.g., `<`, `>`):
+
+#### 🔸 Simple / Elementary
+
+1. **Bubble Sort**
+2. **Selection Sort**
+3. **Insertion Sort**
+4. **Gnome Sort** (aka Stupid Sort)
+5. **Cocktail Shaker Sort** (bidirectional bubble sort)
+6. **Comb Sort**
+
+#### 🔸 Divide and Conquer
+
+7. **Merge Sort**
+8. **Quick Sort**
+9. **Heap Sort**
+
+#### 🔸 Hybrid Algorithms
+
+10. **Timsort** (Python, Java — hybrid of Merge + Insertion)
+11. **IntroSort** (C++ STL — hybrid of Quick + Heap + Insertion)
+12. **Block Sort** (aka WikiSort — merge sort with less memory usage)
+13. **SmoothSort** (variant of Heap Sort by Dijkstra)
+
+#### 🔸 Tree-Based
+
+14. **Binary Tree Sort**
+15. **AVL Tree Sort**
+16. **Treap Sort**
+
+---
+
+### 🔹 **Non-Comparison-Based Sorting Algorithms**
+
+These don’t rely on comparisons — usually faster for specific data types (like integers).
+
+1. **Counting Sort** (only for small integer ranges)
+2. **Radix Sort** (LSD/MSD based on digits or bits)
+3. **Bucket Sort**
+4. **Pigeonhole Sort**
+5. **Flashsort** (fast for uniformly distributed data)
+6. **Postman Sort** (variant of bucket sort)
+
+---
+
+### 🔹 **Parallel / Distributed Sorting Algorithms**
+
+Useful for large-scale, multi-threaded environments:
+
+1. **Bitonic Sort**
+2. **Odd-Even Merge Sort**
+3. **Parallel Merge Sort**
+4. **Parallel Quick Sort**
+5. **Sample Sort**
+6. **Batcher's Sort**
+
+---
+
+### 🔹 **In-Place Sorting Algorithms**
+
+Sorts with O(1) or minimal auxiliary memory:
+
+1. **Insertion Sort**
+2. **Selection Sort**
+3. **Heap Sort**
+4. **Quick Sort**
+5. **Cycle Sort**
+6. **Shell Sort**
+
+---
+
+### 🔹 **Stable Sorting Algorithms**
+
+Maintain the relative order of equal elements:
+
+* Merge Sort ✅
+* Bubble Sort ✅
+* Insertion Sort ✅
+* Counting Sort ✅
+* Radix Sort ✅
+* Timsort ✅
+
+Not stable by default: Quick Sort, Heap Sort, Selection Sort (can be made stable)
+
+---
+
+### 🔹 **Special Purpose Sorting**
+
+1. **Sleep Sort** (fun/experimental, uses system delays)
+2. **Stooge Sort** (inefficient, for educational purposes)
+3. **Bogo Sort** (random sort — joke algorithm)
+4. **Bozo Sort** (swap random elements until sorted)
+5. **Spaghetti Sort** (analog — real-life measurement using spaghetti lengths)
+6. **Gravity Sort / Bead Sort** (simulates gravity, only for integers)
+
+---
+
+### 🔹 **Sorting Networks (Hardware/Parallel Models)**
+
+1. **Bitonic Sorter**
+2. **Odd-Even Sorter**
+3. **Batcher’s Odd-Even Mergesort**
+4. **AKS Sorting Network** (asymptotically optimal but impractical)
+
+---
+
+### 🔹 **External / Disk-Based Sorting**
+
+Used for sorting data that doesn't fit in RAM:
+
+1. **External Merge Sort**
+2. **Polyphase Merge Sort**
+3. **Replacement Selection**
+
+---
+
+If you want a **breakdown by complexity (time/space)**, hybrid strategies, or **real-world use cases**, I can also provide that.

@@ -1,0 +1,107 @@
+Sure! Here's a comprehensive list of algorithms based on **searching** techniques, covering basic to advanced, classical to specialized:
+
+---
+
+### Basic Searching Algorithms
+
+1. **Linear Search (Sequential Search)**
+2. **Binary Search (Iterative)**
+3. **Binary Search (Recursive)**
+4. **Jump Search**
+5. **Interpolation Search**
+6. **Exponential Search**
+7. **Ternary Search**
+
+---
+
+### Tree-Based Searching Algorithms
+
+8. **Depth-First Search (DFS)**
+9. **Breadth-First Search (BFS)**
+10. **Binary Search Tree (BST) Search**
+11. **Balanced BST Search (e.g., AVL, Red-Black Tree Search)**
+12. **Trie (Prefix Tree) Search**
+13. **Segment Tree Search**
+14. **Fenwick Tree (Binary Indexed Tree) Search**
+15. **KD-Tree Search** (for k-dimensional points)
+
+---
+
+### Graph Searching Algorithms
+
+16. **DFS in Graphs**
+17. **BFS in Graphs**
+18. **Dijkstra's Algorithm** (Shortest path search)
+19. **A* Search Algorithm*\* (Heuristic graph search)
+20. **Bellman-Ford Algorithm**
+21. **Floyd-Warshall Algorithm** (All pairs shortest paths)
+22. **Bidirectional Search**
+23. **Iterative Deepening DFS**
+24. **Uniform Cost Search**
+
+---
+
+### Specialized Searching Algorithms
+
+25. **Pattern Searching Algorithms**
+
+* **Naive Pattern Search**
+* **Knuth-Morris-Pratt (KMP) Algorithm**
+* **Rabin-Karp Algorithm**
+* **Boyer-Moore Algorithm**
+* **Z Algorithm**
+
+26. **Substring Search**
+27. **Suffix Array and Suffix Tree Search**
+
+---
+
+### Searching in Data Structures
+
+28. **Hash Table Search (Hashing)**
+29. **Skip List Search**
+30. **Bloom Filter (Probabilistic Search)**
+31. **Priority Queue Search**
+32. **Disjoint Set Union (DSU) Search**
+
+---
+
+### Search in Unstructured Data
+
+33. **Linear Search in Unsorted Data**
+34. **Search in Rotated Sorted Array**
+35. **Search in Nearly Sorted Array**
+36. **Search in Infinite Sorted Array**
+
+---
+
+### Advanced & Heuristic Search Algorithms
+
+37. **Genetic Algorithm Search**
+38. **Simulated Annealing Search**
+39. **Monte Carlo Tree Search (MCTS)**
+40. **Beam Search**
+41. **Minimax Algorithm with Alpha-Beta Pruning** (Game tree search)
+42. **Constraint Satisfaction Problem (CSP) Search**
+
+---
+
+### Searching in Databases & Indexing
+
+43. **B-Tree Search**
+44. **B+ Tree Search**
+45. **R-Tree Search**
+46. **Quad Tree Search**
+47. **Inverted Index Search**
+
+---
+
+### Miscellaneous
+
+48. **Interpolation Search**
+49. **Exponential Search**
+50. **Fibonacci Search**
+
+---
+
+If you want, I can provide explanations, code examples, or categorize them by difficulty or use case. Just let me know!

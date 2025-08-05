@@ -1,0 +1,96 @@
+Sure! Here’s a comprehensive list of common and classic **Dynamic Programming (DP)** algorithms and problems, spanning various categories:
+
+---
+
+### Classic & Fundamental DP Problems
+
+1. **Fibonacci Numbers**
+2. **Climbing Stairs / Staircase Problem**
+3. **Coin Change (Minimum coins & Number of ways)**
+4. **0/1 Knapsack Problem**
+5. **Unbounded Knapsack Problem**
+6. **Subset Sum Problem**
+7. **Partition Problem** (Equal sum partition)
+8. **Longest Common Subsequence (LCS)**
+9. **Longest Common Substring**
+10. **Longest Increasing Subsequence (LIS)**
+11. **Edit Distance (Levenshtein distance)**
+12. **Matrix Chain Multiplication**
+13. **Palindrome Partitioning**
+14. **Rod Cutting Problem**
+15. **Word Break Problem**
+16. **Count Number of Palindromic Substrings**
+17. **Distinct Subsequences**
+18. **Maximum Sum Increasing Subsequence**
+
+---
+
+### Advanced / Specialized DP Problems
+
+19. **Burst Balloons**
+20. **Scramble String**
+21. **Egg Dropping Puzzle**
+22. **Decode Ways** (Count ways to decode a digit string)
+23. **Regular Expression Matching**
+24. **Wildcard Matching**
+25. **Count Ways to Reach Nth Stair** (generalized)
+26. **Paint House Problem** (and variants)
+27. **Maximum Product Subarray**
+28. **Interleaving Strings**
+29. **Palindrome Partitioning II** (minimum cuts)
+30. **Trapping Rain Water** (can be solved via DP approach)
+31. **Count Number of Binary Search Trees** (Catalan numbers)
+32. **Coin Change 2 (Count ways)**
+
+---
+
+### DP on Trees / Graphs
+
+33. **Tree Diameter** (using DP on trees)
+34. **Longest Path in a DAG**
+35. **Tree DP - Maximum Weight Independent Set**
+36. **Maximum Path Sum in a Binary Tree**
+37. **Hamiltonian Path / Cycle in Graphs** (DP with bitmasks)
+38. **Travelling Salesman Problem (TSP)** (DP with bitmasking)
+
+---
+
+### DP with Bitmasking
+
+39. **Set Partitioning with Bitmasking**
+40. **Minimum Cost Hamiltonian Path**
+41. **Maximum Matching in Bipartite Graph** (Hungarian Algorithm related)
+42. **Counting subsets with certain properties**
+
+---
+
+### DP in String Algorithms
+
+43. **Palindromic Subsequence Counting**
+44. **Longest Repeated Subsequence**
+45. **Z-Algorithm / KMP (not classic DP but related string algorithms)**
+46. **Minimum Insertions to form Palindrome**
+47. **Maximum Palindromic Subsequence**
+
+---
+
+### DP in Interval Problems
+
+48. **Optimal Binary Search Tree**
+49. **Matrix Chain Multiplication**
+50. **Palindrome Partitioning**
+
+---
+
+### Other Interesting DP Problems
+
+51. **Maximum Sum Rectangle in 2D Matrix**
+52. **Count Ways to Cover a 3xN Board with 2x1 Tiles**
+53. **Box Stacking Problem**
+54. **Word Ladder Length (DP + BFS)**
+55. **Maximum Profit in Job Scheduling**
+56. **Dice Throw Problem**
+
+---
+
+If you want, I can also give you **explanations or sample implementations** for any of these! Which ones are you interested in?

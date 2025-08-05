@@ -1,0 +1,121 @@
+Sure! Here's a comprehensive list of algorithms based on **arrays**, covering a wide range of common operations, problem types, and patterns:
+
+---
+
+### Array Algorithms List
+
+#### 1. **Basic Array Operations**
+
+* Traverse array
+* Find maximum and minimum element
+* Sum of all elements
+* Reverse array
+* Rotate array (left/right rotations)
+* Merge two sorted arrays
+* Check if array is sorted
+* Find the second largest element
+* Find the majority element (appearing more than n/2 times)
+* Find the frequency of elements
+
+#### 2. **Searching Algorithms**
+
+* Linear search
+* Binary search (on sorted arrays)
+* Search in a rotated sorted array
+* Search for an element in a 2D matrix (sorted row-wise and column-wise)
+
+#### 3. **Sorting Algorithms**
+
+* Bubble sort
+* Selection sort
+* Insertion sort
+* Merge sort
+* Quick sort
+* Heap sort
+* Counting sort
+* Radix sort
+* Bucket sort
+
+#### 4. **Two-Pointer Techniques**
+
+* Pair sum (two elements with given sum)
+* Triplet sum (three elements with given sum)
+* Remove duplicates from sorted array
+* Move all zeros to the end
+* Dutch National Flag problem (sort array of 0s, 1s, 2s)
+* Container with most water (max area)
+* Find all pairs with a given difference
+
+#### 5. **Sliding Window Algorithms**
+
+* Maximum sum subarray of size k
+* Minimum size subarray sum ≥ S
+* Longest substring with K distinct characters (applies to arrays of chars)
+* Maximum of all subarrays of size k
+* Count occurrences of anagrams in a string (array of chars)
+
+#### 6. **Prefix Sum and Difference Arrays**
+
+* Prefix sum array construction
+* Range sum queries (using prefix sums)
+* Difference array for range updates
+* Find equilibrium index (index where sum of left and right are equal)
+
+#### 7. **Subarray/Subsequence Problems**
+
+* Find the maximum subarray sum (Kadane’s Algorithm)
+* Longest increasing subsequence (LIS)
+* Longest common subsequence (LCS) — usually strings but applies to arrays too
+* Maximum product subarray
+* Count subarrays with sum equal to k
+* Count subarrays with at most k distinct elements
+* Find subarray with given sum
+* Largest subarray with equal number of 0s and 1s (binary arrays)
+* Maximum length subarray with sum divisible by k
+
+#### 8. **Partitioning Algorithms**
+
+* Partition array around a pivot (like QuickSort partition)
+* Partitioning to separate even and odd numbers
+* Partition array into k subsets with equal sum (backtracking)
+* Wiggle sort (rearrange array such that a1 ≤ a2 ≥ a3 ≤ a4 …)
+
+#### 9. **Heap and Priority Queue Applications**
+
+* Find k largest/smallest elements
+* Merge k sorted arrays
+* Sliding window maximum (using heap)
+* Median in a stream (using two heaps)
+
+#### 10. **Matrix and Multi-dimensional Arrays**
+
+* Spiral traversal of matrix
+* Rotate matrix by 90 degrees
+* Search in a sorted matrix
+* Transpose of matrix
+* Set matrix zeroes (set entire row and column to zero if element is zero)
+
+#### 11. **Bit Manipulation on Arrays**
+
+* Find the element that appears once when all others appear twice
+* Find two elements that appear once when all others appear twice
+* Count total set bits in all array elements
+* XOR of all elements
+* Subset generation using bit masks
+
+#### 12. **Miscellaneous**
+
+* Find missing number in 1 to n array
+* Find duplicates in array
+* Rearrange array elements (e.g., positive-negative alternate)
+* Next permutation of array
+* Previous permutation of array
+* Find minimum swaps required to sort the array
+* Find the longest consecutive sequence in an unsorted array
+* Product of array except self (without division)
+* Check if array is a subset of another
+* Maximum sum of i\*arr\[i] for all rotations
+
+---
+
+If you'd like, I can provide code examples or explanations for any of these algorithms in your preferred programming language! Just let me know.

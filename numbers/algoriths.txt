@@ -1,0 +1,89 @@
+Sure! Here's a comprehensive list of algorithms and problem types related to **numbers** in computer science and programming, covering a wide range of common and advanced topics:
+
+---
+
+### Number-Based Algorithms List
+
+#### Basic Number Algorithms
+
+1. **Prime Number Checking**
+2. **Sieve of Eratosthenes (Prime generation)**
+3. **Sieve of Atkin**
+4. **Greatest Common Divisor (GCD) - Euclidean Algorithm**
+5. **Least Common Multiple (LCM)**
+6. **Modular Exponentiation**
+7. **Modular Inverse (Extended Euclidean Algorithm)**
+8. **Number Factorization**
+9. **Finding Divisors of a Number**
+10. **Sum of Digits**
+11. **Digit Count**
+12. **Palindrome Number Check**
+13. **Armstrong Number Check**
+14. **Perfect Number Check**
+15. **Happy Number Check**
+
+#### Number Theory Algorithms
+
+16. **Fermat’s Little Theorem**
+17. **Euler’s Totient Function**
+18. **Chinese Remainder Theorem**
+19. **Modular Arithmetic (Addition, Multiplication, Inverse)**
+20. **Fast Exponentiation / Binary Exponentiation**
+21. **Primality Tests (Miller-Rabin, AKS Primality Test)**
+22. **Pollard’s Rho Algorithm (Factorization)**
+23. **Wilson’s Theorem**
+
+#### Arithmetic and Bitwise Number Algorithms
+
+24. **Addition, Subtraction, Multiplication without operators (bitwise)**
+25. **Integer Division without division operator**
+26. **Counting Set Bits (Brian Kernighan’s Algorithm)**
+27. **Checking if a number is power of two**
+28. **Finding the highest power of 2 less than or equal to N**
+29. **Bitwise AND of a range of numbers**
+30. **Finding missing number in an array using XOR**
+31. **Swapping two numbers without temporary variable**
+32. **Reverse bits of an integer**
+33. **Next/Previous permutation in numbers**
+34. **Gray Code generation**
+
+#### Advanced Number Algorithms
+
+35. **Fibonacci Number Generation (Iterative, Recursive, Matrix Exponentiation)**
+36. **Catalan Numbers calculation**
+37. **Pascal’s Triangle generation**
+38. **Counting trailing zeros in factorial**
+39. **Computing factorial mod prime (Lucas theorem)**
+40. **Finding nth digit in the infinite integer sequence (like 123456789101112...)**
+41. **Power Set Sum Problems**
+42. **Counting numbers with given properties (e.g., divisible by k)**
+43. **Digit Dynamic Programming (Digit DP)**
+44. **Calculating sum of multiples of given numbers in a range**
+
+#### Geometry and Numbers
+
+45. **Greatest Common Divisor for points (GCD of coordinates)**
+46. **Finding lattice points on a line segment (using GCD)**
+47. **Check if three numbers form a Pythagorean triplet**
+48. **Sum of Arithmetic Progression**
+49. **Sum of Geometric Progression**
+50. **Finding roots of quadratic equations using number methods**
+
+#### Miscellaneous Number Problems
+
+51. **Kaprekar Number check**
+52. **Automorphic Number check**
+53. **Digital Root calculation**
+54. **Number base conversions (binary, octal, decimal, hexadecimal)**
+55. **Finding recurring cycle length in decimal fraction**
+56. **Multiplicative persistence of a number**
+57. **Sum of squares or cubes of digits**
+58. **Check if two numbers are amicable numbers**
+59. **Counting trailing zeros in factorial**
+60. **Power of numbers using fast exponentiation**
+61. **Number concatenation properties**
+62. **Finding all factors/pairs for a number efficiently**
+
+---
+
+If you'd like, I can also provide **code examples** (in TypeScript, Python, or any language you prefer) for any of these algorithms or explain their logic. Just let me know which ones you want!

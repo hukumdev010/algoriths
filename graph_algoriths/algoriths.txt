@@ -1,0 +1,155 @@
+Sure! Here’s a comprehensive list of algorithms based on **graph theory**, covering a wide variety of common and advanced algorithms used for different graph problems:
+
+---
+
+### 1. **Graph Traversal Algorithms**
+
+* **Depth-First Search (DFS)**
+* **Breadth-First Search (BFS)**
+* **Iterative Deepening DFS**
+
+---
+
+### 2. **Shortest Path Algorithms**
+
+* **Dijkstra’s Algorithm** (single-source shortest path, non-negative weights)
+* **Bellman-Ford Algorithm** (single-source shortest path, handles negative weights)
+* **Floyd-Warshall Algorithm** (all-pairs shortest path)
+* **Johnson’s Algorithm** (all-pairs shortest path for sparse graphs with negative weights)
+* **A* Search Algorithm*\* (heuristic-based shortest path)
+* **Bidirectional Search**
+
+---
+
+### 3. **Minimum Spanning Tree (MST) Algorithms**
+
+* **Kruskal’s Algorithm**
+* **Prim’s Algorithm**
+* **Borůvka’s Algorithm**
+
+---
+
+### 4. **Connectivity and Components**
+
+* **Connected Components (for undirected graphs)**
+* **Strongly Connected Components (Kosaraju’s Algorithm)**
+* **Strongly Connected Components (Tarjan’s Algorithm)**
+* **Bridge Finding Algorithm**
+* **Articulation Points (Cut Vertices) Detection**
+* **2-edge Connectivity**
+
+---
+
+### 5. **Topological Sorting Algorithms**
+
+* **Kahn’s Algorithm**
+* **DFS-based Topological Sort**
+
+---
+
+### 6. **Network Flow Algorithms**
+
+* **Ford-Fulkerson Algorithm**
+* **Edmonds-Karp Algorithm**
+* **Dinic’s Algorithm**
+* **Push-Relabel (Preflow-Push) Algorithm**
+* **Minimum Cost Flow Algorithm**
+* **Circulation with Demands**
+
+---
+
+### 7. **Matching Algorithms**
+
+* **Hungarian Algorithm (Kuhn-Munkres) for Bipartite Matching**
+* **Hopcroft-Karp Algorithm (Maximum Bipartite Matching)**
+* **Edmonds’ Blossom Algorithm (Maximum Matching in General Graphs)**
+
+---
+
+### 8. **Cycle Detection Algorithms**
+
+* **Cycle Detection in Directed Graph (using DFS)**
+* **Cycle Detection in Undirected Graph (using DFS or Union-Find)**
+* **Detect Negative Weight Cycle (Bellman-Ford based)**
+
+---
+
+### 9. **Eulerian Path and Circuit**
+
+* **Hierholzer’s Algorithm**
+
+---
+
+### 10. **Hamiltonian Path and Cycle**
+
+* **Backtracking-based approach (NP-hard problem)**
+
+---
+
+### 11. **Graph Coloring**
+
+* **Greedy Coloring Algorithm**
+* **DSATUR (Degree of Saturation) Algorithm**
+* **Backtracking for Graph Coloring**
+
+---
+
+### 12. **Planarity Testing**
+
+* **Hopcroft and Tarjan Planarity Test**
+
+---
+
+### 13. **Graph Isomorphism**
+
+* **VF2 Algorithm**
+* **Nauty Algorithm**
+
+---
+
+### 14. **Tree Algorithms**
+
+* **Lowest Common Ancestor (LCA) - Binary Lifting**
+* **Heavy-Light Decomposition**
+* **Centroid Decomposition**
+* **Tree Diameter Calculation**
+* **Euler Tour Technique**
+
+---
+
+### 15. **Specialized Graph Algorithms**
+
+* **Transitive Closure (Floyd-Warshall or DFS based)**
+* **Strongly Connected Components condensation**
+* **Sparse Table for Range Queries on Trees**
+* **2-SAT (using implication graph and SCC)**
+* **Disjoint Set Union (Union-Find) for Connectivity**
+
+---
+
+### 16. **Approximation and Heuristic Algorithms for Hard Problems**
+
+* **Traveling Salesman Problem (TSP) Approximation**
+* **Graph Partitioning Algorithms**
+* **Max-Cut Approximations**
+
+---
+
+### 17. **Randomized and Probabilistic Algorithms**
+
+* **Random Walk on Graphs**
+* **Markov Chain Monte Carlo (MCMC) for Graph Sampling**
+
+---
+
+### 18. **Miscellaneous**
+
+* **All-Pairs Reachability**
+* **Transitive Reduction**
+* **Dominators in Flow Graphs**
+* **Minimum Feedback Edge Set**
+* **Minimum Feedback Vertex Set**
+
+---
+
+If you want, I can also provide details or implementations for any specific algorithm from this list! Would you like that?

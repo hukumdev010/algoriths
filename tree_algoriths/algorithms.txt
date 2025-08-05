@@ -1,0 +1,137 @@
+Here’s a comprehensive list of **tree-based algorithms**, organized by category:
+
+---
+
+### 🔹 **Basic Tree Traversals**
+
+1. **Preorder Traversal** (Root → Left → Right)
+2. **Inorder Traversal** (Left → Root → Right)
+3. **Postorder Traversal** (Left → Right → Root)
+4. **Level Order Traversal** (BFS)
+5. **Reverse Level Order Traversal**
+
+---
+
+### 🔹 **Binary Search Tree (BST) Algorithms**
+
+6. **Search in a BST**
+7. **Insert in a BST**
+8. **Delete in a BST**
+9. **Validate a BST**
+10. **Find Minimum/Maximum in BST**
+11. **Find Kth Smallest/Largest Element in BST**
+12. **Lowest Common Ancestor (LCA) in BST**
+13. **Convert Sorted Array to BST**
+14. **Convert BST to Sorted Linked List**
+15. **Recover BST with Two Swapped Nodes**
+
+---
+
+### 🔹 **Binary Tree Algorithms**
+
+16. **Check Symmetry of Binary Tree**
+17. **Check if Two Trees are Identical**
+18. **Check if Tree is Height Balanced**
+19. **Diameter of Binary Tree**
+20. **Max Depth / Height of Binary Tree**
+21. **Min Depth of Binary Tree**
+22. **Sum of Left Leaves**
+23. **Path Sum (Root to Leaf with Target Sum)**
+24. **All Paths with Target Sum**
+25. **Find Maximum Path Sum Between Any Two Nodes**
+26. **Right/Left View of Binary Tree**
+27. **Zigzag Level Order Traversal**
+28. **Boundary Traversal**
+29. **Serialize and Deserialize Binary Tree**
+30. **Burning Tree Problem**
+31. **Tree to DLL (Doubly Linked List)**
+
+---
+
+### 🔹 **Advanced Tree Algorithms**
+
+32. **Lowest Common Ancestor (LCA) – General Tree**
+33. **Euler Tour Technique**
+34. **Heavy Light Decomposition**
+35. **Binary Lifting for LCA**
+36. **Centroid Decomposition**
+37. **Disjoint Set Union (DSU) on Tree**
+38. **Tree Flattening**
+39. **Segment Tree on Tree (Euler Tour + Segment Tree)**
+40. **Fenwick Tree / Binary Indexed Tree (BIT)**
+
+---
+
+### 🔹 **Trie (Prefix Tree) Algorithms**
+
+41. **Insert a Word**
+42. **Search a Word**
+43. **Delete a Word**
+44. **Word Break Problem**
+45. **Longest Prefix Matching**
+46. **Auto-complete Suggestions**
+47. **Maximum XOR of Two Numbers in Array**
+48. **Palindrome Pair Check Using Trie**
+49. **Count Distinct Substrings Using Trie**
+
+---
+
+### 🔹 **Tree Construction Algorithms**
+
+50. **Construct Tree from Inorder and Preorder**
+51. **Construct Tree from Inorder and Postorder**
+52. **Construct Tree from Preorder with Marker (nulls)**
+53. **Construct Full Binary Tree from Preorder and Leaf-Node Array**
+
+---
+
+### 🔹 **Special Binary Trees**
+
+54. **Threaded Binary Tree**
+55. **AVL Tree (Self-Balancing BST)**
+56. **Red-Black Tree**
+57. **Segment Tree**
+58. **Fenwick Tree**
+59. **Cartesian Tree**
+60. **Treap (Tree + Heap)**
+61. **Splay Tree**
+62. **B-Trees / B+ Trees (used in databases)**
+
+---
+
+### 🔹 **Binary Tree Views & Boundaries**
+
+63. **Vertical Order Traversal**
+64. **Top View of Binary Tree**
+65. **Bottom View of Binary Tree**
+66. **Left/Right View of Binary Tree**
+67. **Diagonal Traversal of Binary Tree**
+
+---
+
+### 🔹 **Tree-Based Dynamic Programming (Tree DP)**
+
+68. **DP on Trees (Parent → Children Traversal)**
+69. **Maximum Weight Independent Set in Tree**
+70. **Vertex Cover in Tree**
+71. **Diameter Using DP**
+72. **Subtree Size Calculation**
+73. **Distance Sum from Every Node to All Others**
+74. **Number of Nodes in Subtree**
+
+---
+
+### 🔹 **Binary Indexed Tree (Fenwick Tree) Algorithms**
+
+75. **Range Sum Query**
+76. **Update Query**
+77. **2D BIT Algorithms**
+
+---
+
+### 🔹 **Game / Strategy Problems**
+
+78. **Sprague-Grundy Numbers for Trees**
+79. **Tree-based Minimax (Game Trees)**
+
+---

@@ -1,0 +1,127 @@
+Sure! Here's a comprehensive list of algorithms and classic problems based on **backtracking** and **recursion**. Many backtracking algorithms are recursive by nature, so these overlap quite a bit.
+
+---
+
+# Backtracking & Recursion Algorithms List
+
+### Classic Backtracking Problems
+
+1. **N-Queens problem**
+   Place N queens on an N×N chessboard so that no two queens threaten each other.
+
+2. **Sudoku Solver**
+   Fill a partially completed Sudoku board to get a valid solution.
+
+3. **Word Search**
+   Find if a word exists in a grid by moving adjacent cells.
+
+4. **Subset Sum / Combination Sum**
+   Find subsets of numbers that sum to a target.
+
+5. **Permutation Generation**
+   Generate all permutations of a string or array.
+
+6. **Combination Generation**
+   Generate all combinations of k elements out of n.
+
+7. **Palindrome Partitioning**
+   Partition a string such that every substring is a palindrome.
+
+8. **Letter Case Permutation**
+   Generate all strings by changing letter case of input string.
+
+9. **Rat in a Maze / Maze Solving**
+   Find paths through a maze/grid from start to end.
+
+10. **Graph Coloring Problem**
+    Assign colors to graph vertices so no two adjacent have the same color.
+
+11. **Hamiltonian Path / Cycle**
+    Find a path that visits each vertex exactly once.
+
+12. **Knight’s Tour Problem**
+    Move a knight around a chessboard to visit all squares once.
+
+13. **Crossword Puzzle Solver**
+    Fill a crossword grid with given words.
+
+14. **Cryptarithmetic Puzzle**
+    Assign digits to letters to satisfy an arithmetic equation.
+
+15. **Word Break Problem**
+    Find ways to split a string into dictionary words.
+
+16. **Sudoku Variants**
+    Solving Sudoku with additional constraints (diagonal Sudoku, etc.)
+
+17. **Generate All Binary Strings of Length N**
+
+18. **Generate All Valid Parentheses**
+
+19. **Subset / Powerset Generation**
+
+20. **Find all paths in a Directed Acyclic Graph (DAG)**
+
+---
+
+### Recursive Algorithms (often combined with backtracking)
+
+21. **Factorial Calculation**
+
+22. **Fibonacci Sequence (recursive version)**
+
+23. **Binary Search (recursive implementation)**
+
+24. **Tower of Hanoi**
+
+25. **Merge Sort (recursive divide and conquer)**
+
+26. **Quick Sort (recursive divide and conquer)**
+
+27. **Depth First Search (DFS) on graphs**
+
+28. **Flood Fill Algorithm**
+    Recursive fill in 2D grid (like paint bucket tool)
+
+29. **Sum of digits of a number**
+
+30. **Power calculation (x^n recursively)**
+
+31. **Check if a string is palindrome (recursive check)**
+
+32. **Find all permutations of a string/array**
+
+33. **Print all subsets of a set**
+
+34. **Print all combinations of well-formed parentheses**
+
+35. **Count number of ways to reach nth stair (staircase problem)**
+
+36. **Print all binary trees with n nodes**
+
+---
+
+### More Advanced/Hybrid Recursive Backtracking
+
+37. **Generate Gray codes**
+
+38. **All unique permutations with duplicates**
+
+39. **Find all Hamiltonian cycles in a graph**
+
+40. **Find all solutions for the subset sum problem**
+
+41. **K-partition problem**
+    Partition array into k subsets with equal sum.
+
+42. **Generate all possible IP addresses from a string**
+
+43. **Find all possible letter combinations from phone digits (like on phone keypad)**
+
+44. **Decode Ways (Count all possible ways to decode a numeric string)**
+
+45. **Combination sum II (with duplicates)**
+
+---
+
+If you want, I can also provide the **code implementations** or **explanations** for any of these! Would you like that?
