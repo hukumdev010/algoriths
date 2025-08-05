@@ -1,88 +1,100 @@
-Here’s a list of **commonly asked string-based algorithms** that are frequently seen in coding interviews and online assessments, categorized by difficulty and patterns:
+Sure! Here’s a comprehensive list of algorithms and common problems related to **strings**—covering a broad range of topics from basic to advanced:
 
 ---
 
-## 🟢 **Basic String Algorithms**
+### String Algorithms List
 
-1. **Reverse a string**
-   Input: `"hello"` → Output: `"olleh"`
+#### Basic String Algorithms
 
-2. **Check if a string is a palindrome**
-   Input: `"racecar"` → Output: `true`
+1. **String reversal**
+2. **Check palindrome**
+3. **Count vowels and consonants**
+4. **Find length of string**
+5. **String concatenation**
+6. **Find substring in a string (naive approach)**
+7. **Compare two strings**
+8. **Check if two strings are anagrams**
+9. **Remove duplicates from string**
+10. **Find first non-repeating character**
+11. **Count frequency of characters**
+12. **Convert uppercase to lowercase and vice versa**
+13. **Check if string contains only digits**
+14. **Check if string contains only alphabets**
 
-3. **Count vowels and consonants in a string**
+#### Searching and Pattern Matching
 
-4. **Check if two strings are anagrams**
-   Input: `"listen"`, `"silent"` → Output: `true`
+15. **Naive pattern matching algorithm**
+16. **Rabin-Karp algorithm**
+17. **Knuth-Morris-Pratt (KMP) algorithm**
+18. **Boyer-Moore string search algorithm**
+19. **Z algorithm (pattern matching)**
 
-5. **Remove duplicate characters from a string**
+#### Substrings and Subsequences
 
-6. **Find the first non-repeating character in a string**
+20. **Longest common prefix (LCP)**
+21. **Longest common substring**
+22. **Longest common subsequence (LCS)**
+23. **Longest palindromic substring**
+24. **Longest palindromic subsequence**
+25. **Count distinct substrings**
+26. **Find all palindromic substrings**
+27. **Minimum window substring containing all characters of another string**
+28. **Find all anagrams of a pattern in a string**
 
-7. **Check if a string is a subsequence of another**
-   E.g., `"abc"` is a subsequence of `"ahbgdc"`
+#### String Manipulation
+
+29. **String rotation check**
+30. **Permutations of a string**
+31. **Generate all subsets of characters (power set)**
+32. **Run-length encoding (compress string)**
+33. **URLify a string (replace spaces with `%20`)**
+34. **String to integer conversion (atoi)**
+35. **Integer to string conversion (itoa)**
+36. **Check if string is a valid palindrome ignoring non-alphanumeric characters**
+37. **Find lexicographically next permutation of a string**
+38. **Remove adjacent duplicates in a string**
+39. **Replace all occurrences of a substring**
+40. **Check if string is a rotation of another**
+
+#### Advanced String Algorithms and Data Structures
+
+41. **Suffix array construction**
+42. **Suffix tree construction**
+43. **Trie (prefix tree) implementation and usage**
+44. **Aho-Corasick algorithm (multiple pattern matching)**
+45. **Manacher’s algorithm (longest palindromic substring in O(n))**
+46. **Burrows–Wheeler transform**
+47. **Edit distance (Levenshtein distance)**
+48. **Wildcard pattern matching (with `*` and `?`)**
+49. **Regular expression matching**
+50. **Minimum number of insertions/deletions to make strings equal**
+51. **Longest substring without repeating characters**
+52. **Count number of palindromic substrings**
+53. **Check if one string is a scrambled string of another**
+
+#### Frequency and Counting
+
+54. **Group anagrams together**
+55. **Find k most frequent characters in a string**
+56. **Count substrings with exactly k distinct characters**
+57. **Count substrings with at most k distinct characters**
+58. **Count number of substrings with all unique characters**
+
+#### Miscellaneous
+
+59. **Convert Roman numeral to integer and vice versa**
+60. **Find all permutations of a string with duplicates**
+61. **Check if two strings are isomorphic**
+62. **Generate all valid parentheses combinations (using strings)**
+63. **Check balanced parentheses in string**
+64. **Decode string with encoded counts (like "3\[a2\[c]]")**
+65. **Find the shortest palindrome by adding characters in front**
+66. **Check if string is formed by repetition of substring**
+67. **Convert string to zigzag pattern**
+68. **Count and print all distinct palindromic subsequences**
+69. **Find smallest window containing all distinct characters**
+70. **Count substrings with equal number of 0s and 1s (binary string)**
 
 ---
 
-## 🟡 **Intermediate Level**
-
-8. **Longest Common Prefix**
-   Input: `["flower", "flow", "flight"]` → Output: `"fl"`
-
-9. **Longest Palindromic Substring**
-   Input: `"babad"` → Output: `"bab"` or `"aba"`
-
-10. **Group Anagrams**
-    Input: `["eat","tea","tan","ate","nat","bat"]`
-    Output: `[["eat","tea","ate"],["tan","nat"],["bat"]]`
-
-11. **Valid Parentheses**
-    Input: `"({[]})"` → Output: `true`
-
-12. **Implement `strStr()` / Index of substring**
-    Input: `haystack = "hello", needle = "ll"` → Output: `2`
-
-13. **Find all permutations of a string**
-
-14. **Check if string is rotation of another**
-    `"waterbottle"` is rotation of `"erbottlewat"`
-
----
-
-## 🔴 **Advanced Level**
-
-15. **Z-Algorithm for Pattern Matching**
-
-16. **Rabin-Karp Algorithm (Rolling Hash)**
-
-17. **Knuth-Morris-Pratt (KMP) Algorithm**
-
-18. **Minimum Window Substring**
-    Input: `s = "ADOBECODEBANC", t = "ABC"` → Output: `"BANC"`
-
-19. **Longest Repeating Substring**
-
-20. **Edit Distance (Levenshtein Distance)**
-
-21. **Regular Expression Matching (`'.'` and `'*'` support)**
-
-22. **Wildcard Pattern Matching (`'?'` and `'*'`)**
-
-23. **String Compression**
-    Input: `"aabcccccaaa"` → Output: `"a2b1c5a3"`
-
-24. **Encode and Decode Strings (Leetcode Style Serialization)**
-
----
-
-## 🔁 **Common Patterns in String Questions**
-
-* **Two pointers** → Reversal, palindrome, substring search
-* **Sliding window** → Anagram search, min window, longest substring without repeating
-* **Hashing** → Anagram group, frequency check
-* **Dynamic programming** → Edit distance, longest palindromic subsequence
-* **Trie** → Auto-complete, prefix problems, word dictionary
-
----
-
-Let me know if you'd like implementations or explanations of any of these.
+If you want, I can also give you sample implementations for any specific algorithm or group them by difficulty or topic! Would you like that?
