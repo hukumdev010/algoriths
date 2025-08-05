@@ -1,0 +1,88 @@
+Here’s a list of **commonly asked string-based algorithms** that are frequently seen in coding interviews and online assessments, categorized by difficulty and patterns:
+
+---
+
+## 🟢 **Basic String Algorithms**
+
+1. **Reverse a string**
+   Input: `"hello"` → Output: `"olleh"`
+
+2. **Check if a string is a palindrome**
+   Input: `"racecar"` → Output: `true`
+
+3. **Count vowels and consonants in a string**
+
+4. **Check if two strings are anagrams**
+   Input: `"listen"`, `"silent"` → Output: `true`
+
+5. **Remove duplicate characters from a string**
+
+6. **Find the first non-repeating character in a string**
+
+7. **Check if a string is a subsequence of another**
+   E.g., `"abc"` is a subsequence of `"ahbgdc"`
+
+---
+
+## 🟡 **Intermediate Level**
+
+8. **Longest Common Prefix**
+   Input: `["flower", "flow", "flight"]` → Output: `"fl"`
+
+9. **Longest Palindromic Substring**
+   Input: `"babad"` → Output: `"bab"` or `"aba"`
+
+10. **Group Anagrams**
+    Input: `["eat","tea","tan","ate","nat","bat"]`
+    Output: `[["eat","tea","ate"],["tan","nat"],["bat"]]`
+
+11. **Valid Parentheses**
+    Input: `"({[]})"` → Output: `true`
+
+12. **Implement `strStr()` / Index of substring**
+    Input: `haystack = "hello", needle = "ll"` → Output: `2`
+
+13. **Find all permutations of a string**
+
+14. **Check if string is rotation of another**
+    `"waterbottle"` is rotation of `"erbottlewat"`
+
+---
+
+## 🔴 **Advanced Level**
+
+15. **Z-Algorithm for Pattern Matching**
+
+16. **Rabin-Karp Algorithm (Rolling Hash)**
+
+17. **Knuth-Morris-Pratt (KMP) Algorithm**
+
+18. **Minimum Window Substring**
+    Input: `s = "ADOBECODEBANC", t = "ABC"` → Output: `"BANC"`
+
+19. **Longest Repeating Substring**
+
+20. **Edit Distance (Levenshtein Distance)**
+
+21. **Regular Expression Matching (`'.'` and `'*'` support)**
+
+22. **Wildcard Pattern Matching (`'?'` and `'*'`)**
+
+23. **String Compression**
+    Input: `"aabcccccaaa"` → Output: `"a2b1c5a3"`
+
+24. **Encode and Decode Strings (Leetcode Style Serialization)**
+
+---
+
+## 🔁 **Common Patterns in String Questions**
+
+* **Two pointers** → Reversal, palindrome, substring search
+* **Sliding window** → Anagram search, min window, longest substring without repeating
+* **Hashing** → Anagram group, frequency check
+* **Dynamic programming** → Edit distance, longest palindromic subsequence
+* **Trie** → Auto-complete, prefix problems, word dictionary
+
+---
+
+Let me know if you'd like implementations or explanations of any of these.
